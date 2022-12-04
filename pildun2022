@@ -1,5 +1,7 @@
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Indosiar Pildun
 rtmp://id.59727.16besar.pialadunia2022.hariminggu.04desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Fox Sprot Pildun
+rtmp://en.59727.16besar.pialadunia2022.hariminggu.04desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 1
 http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFwfDA8mG-j_5D0fFreI79Q/ts?checkedby:iptvcat.com
 #EXTINF:0,Fox Sport 1 
