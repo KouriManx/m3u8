@@ -1,2 +1,16 @@
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NBC Sports Washington
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Indosiar Pildun
 rtmp://id.59727.16besar.pialadunia2022.hariminggu.04desember2022.qatar.gratistidakbayar.muhamadaqilfarhan.kawaguchimaeda.com/live/test
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",FOX SPORTS 1
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFwfDA8mG-j_5D0fFreI79Q/ts?checkedby:iptvcat.com
+#EXTINF:0,Fox Sport 1 
+http://188.142.76.198:4022/udp/233.81.233.64:10100
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",FOX SPORTS
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061297?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",FOX SPORTS 1 BACK UP
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061400?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",FOX SPORTS PREMIUM
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/57757?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",FOX SPORTS PREMIUM
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061296?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",FOX SPORTS PREMIUM BACK UP
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061398?checkedby:iptvcat.com
