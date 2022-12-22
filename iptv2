@@ -1,7 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
-  
-#EXTINF:-1 group-title="" tvg-logo="https://cdn.ksa.my.id/ksa.png", 22-12-2022 18:00:10
-https://k.ksa.my.id/ksa.m3u8?1
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
