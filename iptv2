@@ -2,6 +2,10 @@
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png" group-title="Nasional",Kompas TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687637910/ei/NvuWZL2QIcHagQfk1I84/ip/92.205.15.128/id/4rmf-lk3ito.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AZ6lgGESO_L67cL0HP4to7MUKiczx45jM5-UyyHQOWYazdqRghnNO80jnifgjRa6ZwH9HidrhbpWvmsKpu2du5lWq_cWgnEm/spc/qEK7ByhBxAOJpKSO8NBsB9omqTdtedvNlCD4XqHhRQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALstNgEJgFtBa_pfzU8EBiBGfOCnuqS3HbrB1yAEPJ9eAiEAu-ARhvNU7lqnraRgXqm2Mj2a1kkLEYUUjR2sP5g2Lp0%3D/file/index.m3u8
 
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="Nasional",ANTV (480p)
+http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+
+
 #EXTINF:-1,INEWS+ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1,GLOBAL TV+ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
