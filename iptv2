@@ -16,6 +16,7 @@ https://inews-linier.rctiplus.id/hdntl=exp=1687658810~acl=%2F*~data=hdntl~hmac=5
 
 #EXTINF:-1, tes rcti
 https://1d-rcti.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8?auth_key=1687641351-e3fbe79d3444256e5147d686f59deefa-0-25c61c0bac45911e17989f6e747c5832
+
 #EXTINF:-1,INEWS+ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1,GLOBAL TV+ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
