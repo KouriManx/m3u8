@@ -15,8 +15,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687644184/ei/t
 https://inews-linier.rctiplus.id/hdntl=exp=1687658810~acl=%2F*~data=hdntl~hmac=552ece432dfc8e8fad7d73c21fdf6f6d5b03db2d4816bf76e87254921df1a8cf/inews-sdi-avc1_800000=8-mp4a_96000=1.m3u8
 
 #EXTINF:-1, tes rcti
-https://1d-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1687641351-e3fbe79d3444256e5147d686f59deefa-0-a1ff6a53887928361141bd299a47555a
-https://1d-rcti.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8?auth_key=1687641351-e3fbe79d3444256e5147d686f59deefa-0-25c61c0bac45911e17989f6e747c5832
+https://1d-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1687643294-fc2acf511ab240066f7d244ec24b888a-0-06e0aeaecc4f61019a3bdaf08b0946ac
+https://1d-mnctv.rctiplus.id/mnctv-sdi-avc1_600000=8-mp4a_96000=1.m3u8?auth_key=1687643294-fc2acf511ab240066f7d244ec24b888a-0-4487deaeea5c6cecd614fc1d107f7523
 
 #EXTINF:-1,INEWS+ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
