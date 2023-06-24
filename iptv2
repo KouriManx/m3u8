@@ -10,6 +10,9 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1288019846_b744100_sl
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/New_Logo_TVRI.png" group-title="Nasional",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
+#EXTINF:-1, tes indosiar
+https://etslive-2-vidio-com.akamaized.net/exp=1687636339~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=7c7570865bd7de4a27b16d1209d966bfd6ebe3cbf80279f0bf63b4f3239173e8/vp9/205/primary/720p/v-720p-idx.webm
+
 #EXTINF:-1,INEWS+ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1,GLOBAL TV+ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
