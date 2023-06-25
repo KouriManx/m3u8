@@ -15,6 +15,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687644184/ei/t
 https://inews-linier.rctiplus.id/hdntl=exp=1687658810~acl=%2F*~data=hdntl~hmac=552ece432dfc8e8fad7d73c21fdf6f6d5b03db2d4816bf76e87254921df1a8cf/inews-sdi-avc1_800000=8-mp4a_96000=1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=18995679
+#EXT-X-KEY:METHOD=SAMPLE-AES,KEYFORMAT="18995679",KEYFORMATVERSIONS="1"
 #EXTINF:0 tvg-id="GTV.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="National TV",GTV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
