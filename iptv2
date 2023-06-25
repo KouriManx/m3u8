@@ -14,9 +14,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1687644184/ei/t
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="Nasional",iNewsTV
 https://inews-linier.rctiplus.id/hdntl=exp=1687658810~acl=%2F*~data=hdntl~hmac=552ece432dfc8e8fad7d73c21fdf6f6d5b03db2d4816bf76e87254921df1a8cf/inews-sdi-avc1_800000=8-mp4a_96000=1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=3926655717
-#KODIPROP:inputstream.adaptive.license_key=https://auction-load.unityads.unity3d.com/v6/games/4955197/requests?idfi=ddf8164f-e5a7-483f-8e49-ba383d22bdc0&deviceModel=sti6140d360&platform=android&sdkVersion=4300&stores=google&deviceMake=askey&screenSize=268435811&screenDensity=320&apiLevel=29&osVersion=10&screenWidth=1920&screenHeight=1080&connectionType=cellular&networkType=0
-#EXTINF:0 tvg-id="GTV.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/1200px-Global_Television_Network_Logo.svg.png" group-title="National TV",GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="GTV.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/GlobalTV_Indonesia_2012.svg/2560px-GlobalTV_Indonesia_2012.svg.png" group-title="National TV",GTV
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTINF:-1,INEWS+ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
