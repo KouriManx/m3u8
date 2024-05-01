@@ -692,48 +692,12 @@ https://h1.intechmedia.net/intech/ch17.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/radiokitatv.png" group-title="Religi",RADIO KITA TV
 https://h1.intechmedia.net/intech/ch16.m3u8
 
-#EXTINF:-1 tvg-id="LiveStreaming1.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",Live Streaming 1
-http://rr3.dens.tv/s/s70/index1.m3u8
-#EXTINF:-1 tvg-id="LiveStreaming2.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",Live Streaming 2
-http://rr.dens.tv/h/h998/live.m3u8
-#EXTINF:-1 tvg-id="DensPlay.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",DensPlay
-http://rr3.dens.tv/s/s101/live.m3u8
-#EXTINF:-1 tvg-id="DensLife&Style.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",DensLife & Style
-http://rr3.dens.tv/s/s65/index.m3u8
 #EXTINF:-1 tvg-id="DensLearning&Knowledge.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",DensLearning & Knowledge
 http://rr3.dens.tv/s/s36/index.m3u8
-#EXTINF:-1 tvg-id="DensShowBiz.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",DensShowBiz
-http://rr3.dens.tv/s/s35/index.m3u8
-#EXTINF:-1 tvg-id="DensFoodChannel.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",DensFood Channel
-http://rr3.dens.tv/s/s38/index.m3u8
-#EXTINF:-1 tvg-id="MetroTV.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",Metro TV
-http://tv.dens.tv/live/009/index2.m3u8
-#EXTINF:-1 tvg-id="TVOne.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",tvOne
-http://rr2.dens.tv/s/s105/index3.m3u8
-#EXTINF:-1 tvg-id="KompasTV.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",Kompas TV
-http://rr2.dens.tv/s/s104/index10.m3u8
 #EXTINF:-1 tvg-id="BeritaSatu.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",BeritaSatu
 http://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",SCTV
-http://rr2.dens.tv/s/s03/index.m3u8
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",Indosiar
-http://rr2.dens.tv/s/s04/index.m3u8
-#EXTINF:-1 tvg-id="TransTV.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",Trans TV
-http://rr2.dens.tv/s/s05/index.m3u8
 #EXTINF:-1 tvg-id="Trans7.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",Trans7
 http://rr.dens.tv/h/h11/index.m3u8
-#EXTINF:-1 tvg-id="ANTV.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",antv
-http://rr2.dens.tv/s/s07/index3.m3u8
-#EXTINF:-1 tvg-id="Net..Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",NET.
-http://rr2.dens.tv/s/s08/index10.m3u8
-#EXTINF:-1 tvg-id="RTV.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",RTV
-http://rr1.dens.tv/h/h10/index1.m3u8
-#EXTINF:-1 tvg-id="ElshintaTV.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",Elshinta TV
-http://rr2.dens.tv/s/s10/index10.m3u8
-#EXTINF:-1 tvg-id="MOJIOCHANNEL.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",O Channel
-http://rr2.dens.tv/s/s41/index.m3u8
-#EXTINF:-1 tvg-id="TVRI.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",TVRI
-http://rr2.dens.tv/s/s11/index10.m3u8
 #EXTINF:-1 tvg-id="JakTV.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",Jak tv
 http://rr3.dens.tv/s/s12/index2.m3u8
 #EXTINF:-1 tvg-id="RodjaTV.Id" tvg-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENSTV",RodjaTV
@@ -880,16 +844,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 tvg-id="AstroAwaniHD.My" tvg-logo="https://cdn.ksa.my.id/awani.png" group-title="Malaysia",Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://cdn.ksa.my.id/sctv.png" group-title="National TV", SCTV
-https://k.ksa.my.id/ksa.m3u8?a=c503fc6c5f0efeac6080&b=16c98dda3ce86e1907df&c=aa3a68bfd25acb92fcc7
-#EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://cdn.ksa.my.id/indosiar.png" group-title="National TV", INDOSIAR
-https://k.ksa.my.id/ksa.m3u8?a=33cbc98636ea6b2b4a28&b=a457cd239f7e72b12c6d&c=fe251b8cbf412cf05603
-#EXTINF:-1 tvg-id="ANTV.Id" tvg-logo="https://cdn.ksa.my.id/antv.png" group-title="National TV", ANTV
-https://k.ksa.my.id/ksa.m3u8?a=f13971dec1cad587b444&b=dfbcf594b1140d2356db&c=7252755d856256bfe598
-#EXTINF:-1 tvg-id="KompasTV.Id" tvg-logo="https://cdn.ksa.my.id/kompastv.png" group-title="National TV", Kompas TV
-https://k.ksa.my.id/ksa.m3u8?a=0c7411d72f4de5e981eb&b=64c3598d3934bddba329&c=a4fd1185f4416865b4ea
-#EXTINF:-1 tvg-id="Net..Id" tvg-logo="https://cdn.ksa.my.id/net.png" group-title="National TV", Net.
-https://k.ksa.my.id/ksa.m3u8?a=da0b37f32d7a7cba6000&b=f9779b62610627bed1b4&c=9d2c4ae32f2ac6aa5c42
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHeVZZcmN3UXBnYVRfSjZlaHlFTTNoTVMwdVdhTzZvdDFja2hLSU1hblhTeGxJcEo0ZUNBVjI1S2JYeHd4N09MRGlrUmhVSi1hLTk1c3JFY2hXZ2szY3NNdDhhZjVTUk9sYkJaV3NYYkc2QUc2M2k3ZFVKRFNhRGVYQUZXdU8wWlFkQzY0eHE0d1JaM0JNS0R6VWhMVFQ1djRKUWNUYTF0amNiVGIwYnpKM2I0bE5rb2xkNGNrLWtRdGs1M2RvRWtxbVZFZ0hvY0o5b1dxbmM3MHNsWDZHdkRfc2F4QkNEMDdsMXJ1SkN6d29pZWhQVE1FVEJ5aGtYMkZPSVMySHNSNVY3SzdSUDRUUkM5Z2gzVXNXVF8xazJTR3V5aFI1MWY0cW42Ql9NcjJvR1BvRzVLRnpxbldydzlndkFlNDBhS0RRbXI0eVROTjVGVXNhVTlwdks5V0k9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmR3lWWXJjd1FwZ2FUX0o2ZWh5RU0zaE1TMHVXYU82b3QxY2toS0lNYW5YU3hsSXBKNGVDQVYyNUtiWHh3eDdPTERpa1JoVUotYS05NXNyRWNoV2drM2NzTXQ4YWY1U1JPbGJCWldzWGJHNkFHNjNpN2RVSkRTYURlWEFGV3VPMFpRZEM2NHhxNHdSWjNCTUtEelVoTFRUNXY0SlFjVGExdGpjYlRiMGJ6SjNiNGxOa29sZDRjay1rUXRrNTNkb0VrcW1WRWdIb2NKOW9XcW5jNzBzbFg2R3ZEX3NheEJDRDA3bDFydUpDendvaWVoUFRNRVRCeWhrWDJGT0lTMkhzUjVWN0s3UlA0VFJDOWdoM1VzV1RfMWsyU0d1eWhSNTFmNHFuNkJfTXIyb0dQb0c1S0Z6cW5Xcnc5Z3ZBZTQwYUtEUW1yNHlUTk41RlVzYVU5cHZLOVdJPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=c0WXkPRHnJvxPV9ttvOr4sZHYss%3d
