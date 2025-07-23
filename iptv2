@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U url-tvg=https://bit.ly/IndonesiaEpg
+#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg"
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
