@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://bit.ly/AstroEpg" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://bit.ly/UnifyEpg" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://bit.ly/RtmEpg" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg=https://bit.ly/IndonesiaEpg
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
