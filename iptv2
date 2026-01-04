@@ -65,11 +65,11 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w928744995_b744100_sle
 #EXTINF:-1 tvg-id="TransTV.id" group-title="National TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.visionplus.id/images/repository/629/576629-SQUARE-m.jpg",TRANSTV HD (Transmedia)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1178308444_b744100_sleng.m3u8
 
-#EXTINF:-1 group-title="Saluran | Lokal & Nasional" tvg-id="tvone.id" tvg-logo="https://www.visionplus.id/images/repository/632/576632-SQUARE-m.jpg",tvOne 
+#EXTINF:-1 group-title="National TV" tvg-id="tvone.id" tvg-logo="https://www.visionplus.id/images/repository/632/576632-SQUARE-m.jpg",tvOne 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
-#EXTINF:-1 group-title="Saluran | Lokal & Nasional" tvg-id="tvone.id" tvg-logo="https://www.visionplus.id/images/repository/632/576632-SQUARE-m.jpg",tvOne 
+#EXTINF:-1 group-title="National TV" tvg-id="tvone.id" tvg-logo="https://www.visionplus.id/images/repository/632/576632-SQUARE-m.jpg",tvOne 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
