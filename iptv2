@@ -1025,7 +1025,3 @@ https://av-ch-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash/CGTN_Doc.mpd
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-
-
-#EXTINF:-1 tvg-id="MetroTV.Id" group-title="Nasional TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/22/MetroTV_2000.svg/revision/latest?cb=20240805110139&path-prefix=id",Metro TV
-https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w846993376_b1492000_sleng.m3u8
